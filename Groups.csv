@@ -1,4 +1,5 @@
 ,,
+Group,Country,ELO
 B,Wales,1823
 B,USA,1820
 H,Uruguay,1941
@@ -24,7 +25,6 @@ B,England,1938
 A,Ecuador,1847
 D,Denmark,1961
 F,Croatia,1877
-Group,Country,ELO
 E,Costa Rica,1727
 F,Canada,1769
 G,Cameroon,1635
